@@ -1,0 +1,89 @@
+
+.optional{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.btn a{
+    text-decoration: none;
+    color: white;
+}
+/* Banner Section */
+.banner-section{
+    background-image: url('../assets/Hero-bg.png');
+    width: 1440px;
+    height: 652px;
+    margin: 0 auto;
+}
+.banner-img{
+        margin-top: 26px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+}
+.banner-title{
+    font-size: 48px;
+    font-weight: 600;
+    margin-top: 50px;
+    text-align: center;
+    color: #0D1321;
+}
+.banner-description{
+    font-size: 16px;
+    color: #0D1321;
+    text-align: center;
+}
+/* Button Section */
+.contact-me-button{
+    text-align: center;
+    margin-top: 50px;
+}
+button{
+    text-decoration: none;
+    width: 244px;
+    height: 65px;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 24px;
+    background-color: #0D1321;
+}
+button a{
+    text-decoration: none;
+    color: white;
+}
+/* Why Web Development Section */
+.web-development-section >.web-development-title{
+    font-size: 32px;
+    font-weight: bolder;
+    text-align: center;
+}
+.web-development-description{
+    text-align: center;
+    color: #0D1321;
+}
+.content-parent{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    padding: 50px;
+}
+.web-content-title{
+    font-size: 24px;
+    font-weight: bold;
+    color: #0D1321;
+}
+/* Inspiration Section */
+.inspiration-title{
+    font-size: 32px;
+    font-weight: bolder;
+    text-align: center;
+}
+.inspiration-description{
+    font-size: 16px;
+    color: #0D1321;
+    text-align: center;
+}
+.iframe-video{
+display: flex;
+justify-content: center;
+}
