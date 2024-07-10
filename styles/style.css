@@ -87,3 +87,30 @@ button a{
 display: flex;
 justify-content: center;
 }
+/* Target Section */
+.target-title{
+    text-align: center;
+}
+.target-description{
+    text-align: center;
+}
+.skills{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.skill{
+    background-color: #FFF6F3;
+    width: 365px;
+    height: 300px;
+}
+.skill1{
+    background-color: #F2F6FE;
+    width: 365px;
+    height: 300px;
+}
+.skill2{
+    background-color: #FFFDF2;
+    width: 365px;
+    height: 300px;
+}
