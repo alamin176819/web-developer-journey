@@ -122,3 +122,16 @@ justify-content: center;
     height: 313px;
     margin: 0 auto;
 }
+.support-title{
+    text-align: center;
+    color: white;
+}
+.need{
+    padding-top: 80px;
+    font-size: 32px;
+    font-weight: bold;
+}
+.support-description{
+    text-align: center;
+    color: white;
+}
