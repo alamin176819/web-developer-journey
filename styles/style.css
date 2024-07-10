@@ -115,7 +115,7 @@ justify-content: center;
     height: 300px;
 }
 /* Support Section */
-.support{
+#support{
     background-image: url('../assets/handshake.jpg');
     background-size: 100% 100%;
     width: 1140px;
@@ -152,4 +152,13 @@ input{
 }
 .input-submit>button a{
     color: black;
+}
+/* footer section */
+.footer{
+    display: flex;
+    justify-content: space-around;
+    width: 1440px;
+    height: 100px;
+    padding: 30px;
+    
 }
